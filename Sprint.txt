@@ -1,15 +1,18 @@
-A Library Management System (LMS) is simple, practical project . Lets break it down  in 3 levels.
+Weather App Project Breakdown
 
 Level 1: Basic (Beginner-Friendly)
-Add new books (title, author, ID, availability)
-Mark a book as issued/returned
+Get current weather for a city
+Display temperature, weather condition, and humidity
+Output results as plain text
 
 Level 2: Intermediate
-User login/signup (student vs. librarian)
-Students can search and issue books
-Librarian can add/remove books
+
+Allow searching weather for multiple cities
+Save results to a text file for later reference
+Show additional info: wind speed, sunrise/sunset time
 
 Level 3: Advanced
-Role-based dashboard (Admin/Librarian/Student)
-Fine calculation for late returns
 
+Fetch 5-day weather forecast for cities
+Allow user to input city names via a file and output results to another file
+Include alerts for extreme weather (temperature thresholds, storms)
