@@ -1,15 +1,20 @@
 A Library Management System (LMS) is simple, practical project . Lets break it down  in 3 levels.
 
 Level 1: Basic (Beginner-Friendly)
-Add new books (title, author, ID, availability)
+Add new books (title, author, ID, availability, Publisher)
+View all books
+Search for a book by title/author
 Mark a book as issued/returned
 
 Level 2: Intermediate
 User login/signup (student vs. librarian)
-Students can search and issue books
+Students can issue/return books online 
 Librarian can add/remove books
+Track issued/returned books with due dates
 
 Level 3: Advanced
 Role-based dashboard (Admin/Librarian/Student)
+Email notifications for due dates
 Fine calculation for late returns
+Book categories & recommendations
 
